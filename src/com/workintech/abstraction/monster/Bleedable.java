@@ -1,2 +1,6 @@
-package com.workintech.abstraction.monster;public interface Bleedable {
+package com.workintech.abstraction.monster;
+
+public interface Bleedable {
+    public double bleed();
 }
+
